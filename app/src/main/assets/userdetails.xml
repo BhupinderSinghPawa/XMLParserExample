@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<users>
+    <user>
+        <name>Suresh Dasari</name>
+        <designation>Team Leader</designation>
+        <location>Hyderabad</location>
+    </user>
+    <user>
+        <name>Rohini Alavala</name>
+        <designation>Agricultural Officer</designation>
+        <location>Guntur</location>
+    </user>
+    <user>
+        <name>Trishika Dasari</name>
+        <designation>Charted Accountant</designation>
+        <location>Guntur</location>
+    </user>
+</users>
